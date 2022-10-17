@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+body{
+  background-color: #090809;
+}
+.contenedor{
+  width: 1250px;
+  margin: auto;
+
+}
+
+.encabezado{
+  text-align: center;
+  padding: 10px;
+}
+
+.texto{
+  text-align: center;
+  color: white;
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 30px;
+}
+
+.jordans{
+  text-align: center;
+  color: white;
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 20px;
+}
+
+.item-m{
+  align-items: center;
+  text-align: center;
+  font-family: 'Archivo Black', sans-serif;
+  display: inline-block;
+  padding: 10px;
+
+}
+
+.item-m a {
+  color: #D12F34;
+  text-decoration: none;
+}
+
+.item-m a:hover{
+  padding: 10px;
+  color: #D12F34;
+  background-color: #FFFFFF;
+}
+
+.texto3{
+  text-align: center;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 25px;
+  padding: 30px;
+}
+
+.texto4{
+  text-align: center;
+  color: white;
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 25px;
+}
+
+.texto5{
+  text-align: center;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 25px;
+  padding: 80px;
+}
+
+
+.pie {
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+  padding: 50px;
+  background-color: #D12F34;
+  text-align: center;
+  height: 100px;
+  margin: auto;
+}
